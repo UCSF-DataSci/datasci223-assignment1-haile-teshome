@@ -49,11 +49,21 @@ This assignment will help you practice:
 - Clone the repository to your local machine to begin working on the assignment
 
 ### Part 1: Update this README.md
-Replace the "Part 1" section with:
-- A brief introduction about yourself (first name only)
-- What you're hoping to get out of this course
-- Topics you would like to see included
-- A musical recommendation and a link to something about it (song, album, artist)
+Hi! I'm Haile and I'm a first year Health Data Science MS student. I'm interested in taking this course to work on expanding my skills in Python and especially as it pertains to the data science workflow and infrastructure set up like containers and model management.
+
+**Topics I’d love to see covered include:**
+- Containerization with Docker
+- Model versioning and deployment (e.g., MLflow, FastAPI)
+- Working with APIs and web scraping
+- Deploying models to production
+- Feature engineering and model explainability
+- Streaming and real-time analytics
+- Graph data analysis
+- MLOps and model monitoring
+
+ **Musical Recommendation**  
+A random playlist I found one day of what music frogs would probably listen to, but makes great background noise??
+Playlist
 
 ### Part 2: Complete the email_hasher.py Script
 The email_hasher.py script should:
