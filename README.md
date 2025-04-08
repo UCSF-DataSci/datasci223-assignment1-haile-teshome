@@ -63,7 +63,9 @@ Hi! I'm Haile and I'm a first year Health Data Science MS student. I'm intereste
 
  **Musical Recommendation**  
 A random playlist I found one day of what music frogs would probably listen to, but makes great background noise??
-Playlist
+
+Link:
+https://open.spotify.com/playlist/2kP9jazPScuE7z7t8nl4YZ?si=lPwaEr3vTCW8IsOxeXaXTQ&pi=nv3c__jcSayK3&nd=1&dlsi=55dd468d6a1043c7
 
 ### Part 2: Complete the email_hasher.py Script
 The email_hasher.py script should:
