@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6fFVVHyL)
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=19041381)
 # GitHub and Python Foundations Assignment
 
 ## Overview
@@ -47,11 +49,23 @@ This assignment will help you practice:
 - Clone the repository to your local machine to begin working on the assignment
 
 ### Part 1: Update this README.md
-Replace the "Part 1" section with:
-- A brief introduction about yourself (first name only)
-- What you're hoping to get out of this course
-- Topics you would like to see included
-- A musical recommendation and a link to something about it (song, album, artist)
+Hi! I'm Haile and I'm a first year Health Data Science MS student. I'm interested in taking this course to work on expanding my skills in Python and especially as it pertains to the data science workflow and infrastructure set up like containers and model management.
+
+**Topics I’d love to see covered include:**
+- Containerization with Docker
+- Model versioning and deployment (e.g., MLflow, FastAPI)
+- Working with APIs and web scraping
+- Deploying models to production
+- Feature engineering and model explainability
+- Streaming and real-time analytics
+- Graph data analysis
+- MLOps and model monitoring
+
+ **Musical Recommendation**  
+A random playlist I found one day of what music frogs would probably listen to, but makes great background noise??
+
+Link:
+https://open.spotify.com/playlist/2kP9jazPScuE7z7t8nl4YZ?si=lPwaEr3vTCW8IsOxeXaXTQ&pi=nv3c__jcSayK3&nd=1&dlsi=55dd468d6a1043c7
 
 ### Part 2: Complete the email_hasher.py Script
 The email_hasher.py script should:
